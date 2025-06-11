@@ -26,10 +26,11 @@ This project automates the generation of a professional Excel sales report using
 project/
 │
 ├── data/
-│ └── sales_report_YYYY-MM-DD_HH-MM-SS.xlsx # Generated reports
+│   └── sales_report_YYYY-MM-DD_HH-MM-SS.xlsx  # Generated reports with timestamp
 │
-├── Excel_Report_Automation.ipynb # Main automation script
-├── README.md # Project documentation
+├── Excel_Report_Automation.ipynb              # Main automation script (Jupyter Notebook)
+├── README.md                                  # Project documentation
+
 
 
 
