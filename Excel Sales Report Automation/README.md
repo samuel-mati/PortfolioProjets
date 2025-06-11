@@ -23,6 +23,7 @@ This project automates the generation of a professional Excel sales report using
 
 ## 📁 Folder Structure
 
+```bash
 project/
     │
     ├── data/
@@ -30,7 +31,7 @@ project/
     │
     ├── Excel_Report_Automation.ipynb              # Main automation script (Jupyter Notebook)
     ├── README.md                                  # Project documentation
-
+```
 
 
 
